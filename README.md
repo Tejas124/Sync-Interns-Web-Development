@@ -1,1 +1,1 @@
-# Sync-Interns-Web-Development
+## Web Development Internship Projects under Sync Intern's
